@@ -53,7 +53,6 @@ Anda sedang di luar kantor atau tidak membawa laptop? Komputer Anda tetap dapat 
 
 ## ⭐ Keunggulan TamsDesk
 
-- **Sistem Auto-Healing & Anti-Freeze:** Aplikasi secara pintar mendeteksi dan membersihkan proses background yang macet sehingga tidak akan pernah menggantung saat dibuka ulang.
 - **Ultra Low Latency:** Didukung engine Native C++ untuk transfer frame layar yang responsif dan hemat konsumsi bandwidth.
 - **Koneksi Terenkripsi & Aman:** Sesi remote terlindungi oleh proteksi PIN personal yang dapat diubah kapan saja.
 - **Master Studio Fleet:** Mendukung pengelolaan puluhan PC Studio / Kantor dalam 1 klik dashboard bagi tim kreatif dan agensi.
